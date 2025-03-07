@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "name": "Relaxation Tea",
+    "type": "beverage",
+    "description": "A soothing herbal tea blend designed for relaxation and stress relief.",
+    "effects": [
+      "relaxation",
+      "stress relief"
+    ],
+    "ingredients": [
+      "Chamomile",
+      "Lavender"
+    ],
+    "price": 12.99,
+    "sales_data": {
+      "units_sold": 120,
+      "last_month_revenue": 1558.8
+    },
+    "image_url": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Energy Booster",
+    "type": "beverage",
+    "description": "An invigorating tea blend designed to boost energy and focus.",
+    "effects": [
+      "energy",
+      "alertness",
+      "focus"
+    ],
+    "ingredients": [
+      "Green Tea",
+      "Ginseng",
+      "Ginger"
+    ],
+    "price": 14.99,
+    "sales_data": {
+      "units_sold": 150,
+      "last_month_revenue": 2248.5
+    },
+    "image_url": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Digestive Harmony",
+    "type": "supplement",
+    "description": "A natural supplement that promotes healthy digestion and gut health.",
+    "effects": [
+      "digestion",
+      "gut health"
+    ],
+    "ingredients": [
+      "Peppermint",
+      "Fennel",
+      "Probiotics"
+    ],
+    "price": 19.99,
+    "sales_data": {
+      "units_sold": 90,
+      "last_month_revenue": 1799.1
+    },
+    "image_url": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Sleep Support",
+    "type": "supplement",
+    "description": "A natural supplement that promotes deep and restful sleep.",
+    "effects": [
+      "sleep",
+      "relaxation"
+    ],
+    "ingredients": [
+      "Melatonin",
+      "Valerian Root",
+      "Magnesium"
+    ],
+    "price": 24.99,
+    "sales_data": {
+      "units_sold": 110,
+      "last_month_revenue": 2748.9
+    },
+    "image_url": "https://images.unsplash.com/photo-1611072172377-0cabc3addb27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Immunity Boost",
+    "type": "supplement",
+    "description": "A natural supplement that strengthens the immune system.",
+    "effects": [
+      "immunity",
+      "health"
+    ],
+    "ingredients": [
+      "Vitamin C",
+      "Zinc",
+      "Elderberry"
+    ],
+    "price": 21.99,
+    "sales_data": {
+      "units_sold": 130,
+      "last_month_revenue": 2858.7
+    },
+    "image_url": "https://images.unsplash.com/photo-1584362917165-526a968579e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Focus Formula",
+    "type": "supplement",
+    "description": "A natural supplement that enhances mental clarity and focus.",
+    "effects": [
+      "focus",
+      "clarity",
+      "cognition"
+    ],
+    "ingredients": [
+      "Ginkgo Biloba",
+      "Lion's Mane",
+      "Bacopa Monnieri"
+    ],
+    "price": 29.99,
+    "sales_data": {
+      "units_sold": 85,
+      "last_month_revenue": 2549.15
+    },
+    "image_url": "https://images.unsplash.com/photo-1643102381766-9a2eb9ab0760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Calming Candle",
+    "type": "aromatherapy",
+    "description": "A soothing aromatherapy candle with calming scents for relaxation.",
+    "effects": [
+      "relaxation",
+      "calm",
+      "stress relief"
+    ],
+    "ingredients": [
+      "Lavender Essential Oil",
+      "Chamomile Extract",
+      "Soy Wax"
+    ],
+    "price": 18.99,
+    "sales_data": {
+      "units_sold": 100,
+      "last_month_revenue": 1899
+    },
+    "image_url": "https://images.unsplash.com/photo-1603204077779-bed963ea7d0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Energizing Diffuser",
+    "type": "aromatherapy",
+    "description": "An aromatherapy diffuser with energizing scents for focus and productivity.",
+    "effects": [
+      "energy",
+      "focus",
+      "productivity"
+    ],
+    "ingredients": [
+      "Peppermint Essential Oil",
+      "Eucalyptus Extract",
+      "Rosemary Oil"
+    ],
+    "price": 23.99,
+    "sales_data": {
+      "units_sold": 95,
+      "last_month_revenue": 2279.05
+    },
+    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+  }
+]
