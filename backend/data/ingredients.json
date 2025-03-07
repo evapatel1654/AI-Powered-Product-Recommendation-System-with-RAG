@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Chamomile",
+    "properties": "Mild, floral aroma; known for calming effects",
+    "common_effects": [
+      "relaxation",
+      "improved sleep",
+      "stress reduction"
+    ],
+    "benefits": "Helps reduce anxiety and promotes better sleep quality. Contains antioxidants that may help reduce inflammation.",
+    "scientific_evidence": "Studies suggest chamomile can improve sleep quality and reduce anxiety symptoms in some individuals."
+  },
+  {
+    "name": "Lavender",
+    "properties": "Sweet, floral scent; popular in aromatherapy",
+    "common_effects": [
+      "relaxation",
+      "stress relief",
+      "sleep improvement"
+    ],
+    "benefits": "Helps reduce anxiety and improve sleep quality. Can help alleviate mild pain and skin irritation.",
+    "scientific_evidence": "Research indicates lavender aromatherapy may help reduce anxiety and improve sleep quality in certain populations."
+  },
+  {
+    "name": "Green Tea",
+    "properties": "Light, slightly bitter taste; contains caffeine and L-theanine",
+    "common_effects": [
+      "energy",
+      "focus",
+      "metabolism boost"
+    ],
+    "benefits": "Contains antioxidants that may help prevent cell damage. The combination of caffeine and L-theanine provides energy without jitters.",
+    "scientific_evidence": "Studies suggest green tea consumption may be associated with improved cognitive function and metabolism."
+  },
+  {
+    "name": "Ginseng",
+    "properties": "Earthy, bitter taste; traditional adaptogen",
+    "common_effects": [
+      "energy",
+      "focus",
+      "stress resilience"
+    ],
+    "benefits": "May help improve energy levels and cognitive function. Acts as an adaptogen to help the body resist stressors.",
+    "scientific_evidence": "Some research suggests ginseng may improve cognitive performance and reduce fatigue."
+  },
+  {
+    "name": "Ginger",
+    "properties": "Spicy, aromatic flavor; warming properties",
+    "common_effects": [
+      "digestion",
+      "anti-inflammation",
+      "circulation"
+    ],
+    "benefits": "Helps alleviate nausea and improve digestion. Has anti-inflammatory properties that may help with pain reduction.",
+    "scientific_evidence": "Clinical studies support ginger's effectiveness for nausea, especially pregnancy-related morning sickness."
+  },
+  {
+    "name": "Peppermint",
+    "properties": "Cool, refreshing taste; contains menthol",
+    "common_effects": [
+      "digestion",
+      "alertness",
+      "respiratory support"
+    ],
+    "benefits": "Helps relieve digestive discomfort and IBS symptoms. The scent can enhance alertness and memory.",
+    "scientific_evidence": "Research supports peppermint oil's effectiveness for IBS symptoms and tension headaches."
+  },
+  {
+    "name": "Fennel",
+    "properties": "Sweet, licorice-like flavor; seed-based",
+    "common_effects": [
+      "digestion",
+      "anti-bloating",
+      "appetite control"
+    ],
+    "benefits": "Helps relieve bloating and digestive discomfort. May help reduce appetite and support weight management.",
+    "scientific_evidence": "Traditional use for digestive issues is supported by some clinical research showing effectiveness for IBS and colic."
+  },
+  {
+    "name": "Probiotics",
+    "properties": "Live beneficial bacteria; various strains",
+    "common_effects": [
+      "gut health",
+      "immunity",
+      "digestion"
+    ],
+    "benefits": "Helps maintain healthy gut microbiome balance. May support immune function and improve digestion.",
+    "scientific_evidence": "Substantial research supports specific probiotic strains for various gut conditions, though effects are strain-specific."
+  },
+  {
+    "name": "Melatonin",
+    "properties": "Hormone naturally produced by the body; regulates sleep-wake cycle",
+    "common_effects": [
+      "sleep initiation",
+      "circadian rhythm regulation"
+    ],
+    "benefits": "Helps regulate sleep-wake cycles. Useful for jet lag and certain sleep disorders.",
+    "scientific_evidence": "Strong evidence supports melatonin use for jet lag and some types of insomnia, particularly in older adults."
+  },
+  {
+    "name": "Valerian Root",
+    "properties": "Earthy, somewhat unpleasant smell; sedative properties",
+    "common_effects": [
+      "sleep improvement",
+      "anxiety reduction",
+      "relaxation"
+    ],
+    "benefits": "May help improve sleep quality and reduce the time to fall asleep. May help reduce anxiety symptoms.",
+    "scientific_evidence": "Mixed results in clinical studies, but some evidence supports its mild sedative effects for sleep problems."
+  }
+]
